@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}.navigation {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+.nav-2 {
+    
+    margin-top: 30px;
+    margin-right: 40px;
+}
+.my-1 {
+    margin: 5px;
+    padding: 10px;
+    font-family: "Titillium Web", sans-serif;
+    font: 40px;
+    
+    
+
+}
+ .nav-1 {
+    padding-left: 20px;
+ }
+ .Details {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 85vh;
+    align-items: center;
+    margin: 10px;
+
+ }
+ .image {
+    height: 8cm;
+    
+ }
+ 
+ .Det-112 {
+    text-align: right;
+    padding-left: 70px;
+    font-family: "Prompt", sans-serif;
+ }
+ .Det-111{
+    text-align: right;
+    padding-left: 70px;
+    font-family: "Dosis", sans-serif;
+ }
+ .Det-1 {
+    width: 50vw;
+
+    
+ }
+ .Det-2 {
+    width: 50vw;
+    padding-left: 100px;
+ }
+ .att-1 {
+    color: green;
+    
+    
+ }
+ .att-2 {
+    display: flex;
+    align-items: center ;
+    
+    margin-left: 370px;
+    
+    height: 60VH;
+    
+
+ }
+ .det-21 {
+    display: flex;
+    justify-content: left;
+    padding-bottom: 500px;
+    color: green;
+
+ }
+ .percentage {
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row;
+   
+ }
+ .per2{
+   padding-right: 500px;
+   padding-top: 250px;
+   
+ }
+
+ .per-1 {
+   color: green;
+ }
